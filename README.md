@@ -1,20 +1,9 @@
-<!-- [style](https://github.com/manueljaime007/manueljaime007/blob/main/assets/css.css) -->
+## Hi there 👋 </h1>
+### I'm Manuel Jaime😎 
+#### Newbie Programmer
 
-
-<style>
-    body{
-        background: linear-gradient(45deg, #123456, #d60234) no-repeat;
-        color: #fff;
-    }
-    h1, h2, h3, h4, h5, h6, summary, details{
-        color: #fff;    
-    }
-</style>    
-
-<h1> Hi there 👋 </h1>
-
-<h3> I'm Manuel Jaime😎 </h3>
-<h3> Newbie Programmer </h3>
+<br>
+<br>
 
 
 
