@@ -1,8 +1,22 @@
-# Hi there 👋
-## I'm Manuel Jaime😎
-### Newbie Programmer
+<!-- [style](https://github.com/manueljaime007/manueljaime007/blob/main/assets/css.css) -->
 
-<!-- [text](https://github.com/manueljaime007/manueljaime007) -->
+
+<style>
+    body{
+        background: linear-gradient(45deg, #123456, #d60234) no-repeat;
+        color: #fff;
+    }
+    h1, h2, h3, h4, h5, h6, summary, details{
+        color: #fff;    
+    }
+</style>    
+
+<h1> Hi there 👋 </h1>
+
+<h3> I'm Manuel Jaime😎 </h3>
+<h3> Newbie Programmer </h3>
+
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueljaime007&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="manueljaime007's GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manueljaime007&theme=dracula&hide_border=true" alt="manueljaime007''s GitHub Stats"/>
@@ -55,8 +69,6 @@
 </div>
 
 </details>
-<hr>
-
 
 
 
