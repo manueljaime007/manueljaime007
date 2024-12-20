@@ -1,21 +1,22 @@
-<h1 align="center">Hi ✋🏾, I'm Manuel Jaime</h1>
-<h3 align="center">A passionate frontend developer from Angola 🇦🇴</h3>
+# 👋 Olá! Eu sou o Manuel Jaime  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manueljaime007&label=Profile%20views&color=0e75b6&style=flat" alt="manueljaime007" /> </p>
+Sou um desenvolvedor iniciante e com interesse em **Frontend** e **Backend**, atualmente em busca de aperfeiçoar minhas habilidades para criar aplicações web completas, leves e interativas.  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manueljaime007" alt="manueljaime007" /></a> </p>
+## 🔧 Tecnologias em aprendizado  
 
-- 📫 How to reach me **manueljaime0020@gmail.com**
+### Atualmente, estou me aprofundando em:  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **Linguagens:** JavaScript, Python e PHP  
+- **Frontend:** React, Angular, TypeScript, Tailwind  
+- **Backend:** Laravel, Node.js, Django  
+- **Banco de Dados e DevOps:** MySQL, PostgreSQL, MongoDB, Redis, Docker  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🎯 Objetivos  
+Meu objetivo é desenvolver soluções inovadoras que combinam desempenho, design intuitivo e funcionalidades práticas para o usuário. Além disso, tenho grande interesse em explorar **Machine Learning** e **Inteligência Artificial** de forma útil e eficiente.  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manueljaime007&show_icons=true&locale=en&layout=compact" alt="manueljaime007" /></p>
+## 🛠️ Experiências  
+Participei de um projeto na **NOSSA Seguros**, onde contribui ao lado de um colega, adquirindo experiência em trabalho colaborativo e resolução de problemas reais.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manueljaime007&show_icons=true&locale=en" alt="manueljaime007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manueljaime007&" alt="manueljaime007" /></p>
+## 🌟 Sobre mim  
+Quando não estou programando, gosto de curtir:  
+⚽ Futebol | 🎵 Música | 🍲 Comida | 🎮 Videojogos
