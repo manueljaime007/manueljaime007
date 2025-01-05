@@ -15,7 +15,6 @@ When I'm not programming, I enjoy:
 ⚽ Football | 🎵 Music | 🍲 Food | 🎮 Video Games | 📚 Studying
 
 * 🌍  I'm based in Luanda - Angola 
-<br>
 * 🧠  I'm learning React and TailwindCSS
 * ⚡  I have a passion for music, football, continuous learning
 * ✉️  You can contact me at [manueljaime0020@gmail.com](mailto:manueljaime0020@gmail.com)
