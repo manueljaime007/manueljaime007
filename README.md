@@ -75,4 +75,4 @@ I participated in a project at **NOSSA Seguros**, where I worked alongside a col
 
 ### 🐍 Cobrinha comendo meus commits!
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/manueljaime007/manueljaime007/blob/output/github-contribution-grid-snake.svg)
