@@ -71,3 +71,8 @@ I participated in a project at **NOSSA Seguros**, where I worked alongside a col
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 # Come back often!
+
+
+### 🐍 Cobrinha comendo meus commits!
+
+![Snake animation](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
