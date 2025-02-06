@@ -61,7 +61,12 @@ I participated in a project at **NOSSA Seguros**, where I worked alongside a col
 
 ## ✨ Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/manueljaime007/Christmas" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manueljaime007&repo=Christmas&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/manueljaime007/Christmas" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=manueljaime007&repo=Christmas&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br />
+
+
+<br /><br /><br /><br /><br />
+
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manueljaime007" alt="manueljaime007" /></a> </p>
