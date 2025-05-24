@@ -1,29 +1,34 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)# My name is Manuel Jaime
+Manuel Jaime
 ===========================================================================================
 
-I'm a programmer interested in fullstack web development, currently looking to improve my skills to create complete, lightweight and interactive web and applications.
+Junior Web Developer focusing on frontend and backend.
+
 <br>
 
 <a href="https://www.github.com/manueljaime007" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/manueljaime007?logo=github&style=for-the-badge&color=ffffff&labelColor=0f172a" /></a>
 <br/>
 
+
+
 ## 🌟 More About Me  
-When I'm not programming, I enjoy:  
-⚽ Football | 🎵 Music | 🍲 Food | 🎮 Video Games | 📚 Studying
 
-* 🌍  I'm based in Luanda - Angola 
-* 🧠  I'm learning React and Typescript
-* ⚡  I have a passion for music, football, programming and continuous learning
-* ✉️  You can contact me at [manueljaime0020@gmail.com](mailto:manueljaime0020@gmail.com)
+When I'm not coding, you’ll find me:  
+⚽ Playing football | 🎵 Listening to music | 🎮 Gaming | 📚 Learning new stuff  
+
+* 🌍 Based in Luanda, Angola  
+* 🧠 Currently learning React & TypeScript  
+* ✉️ Reach me at [manueljaime0020@gmail.com](mailto:manueljaime0020@gmail.com)
 
 
-## 🎯 Objectives  
-My goal is to develop innovative solutions that combine good performance, intuitive design and practical functionality for the user. 
+## 🎯 Objective
+Keeping leveling up as a fullstack dev to build smart, fast apps that people actually love to use.
 
 ## 🛠️ Experience  
-I participated in a project at **NOSSA Seguros**, where I worked alongside a colleague, gaining experience in collaborative work and solving real-world problems.
-* 🔗 See more in [https://hackathon.itel.gov.ao/](https://hackathon.itel.gov.ao/)
+Worked on a project at NOSSA Seguros with a teammate, gaining hands-on experience in teamwork and solving real-world challenges.
+* 🔗 Check it out [https://hackathon.itel.gov.ao/](https://hackathon.itel.gov.ao/)
+
+
 
 
 <br/>
@@ -43,16 +48,34 @@ I participated in a project at **NOSSA Seguros**, where I worked alongside a col
 <p align="left" style="display: flex; gap: 1rem"><a href="https://www.facebook.com/profile.php?id=61569838442978" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/manueljaime007" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/manuel_jaime007/?igsh=YzljYTk1ODg3Zg%3D%3D#" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
 <br/>
-
 ## Badges
 
-<br/>
+
+  <a href="http://www.github.com/manueljaime007" style="flex: 1; margin-bottem: 1rem;">
+    <img src="https://github-readme-stats.vercel.app/api?username=manueljaime007&show_icons=true&count_private=true&title_color=5de15d&text_color=ffffff&icon_color=ffffff&bg_color=040404&hide_border=true" alt="manueljaime007's GitHub stats" />
+  </a>
+
+  <a href="https://github.com/manueljaime007" style="flex: 1; margin-bottem: 1rem;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueljaime007&langs_count=10&title_color=5de15d&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+<br>
+<br>
 
 
-<a href="http://www.github.com/manueljaime007"><img src="https://github-readme-stats.vercel.app/api?username=manueljaime007&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&show_icons=true" alt="manueljaime007's GitHub stats" /></a>
+<!-- Dark -->
+
+<!-- Dracula -->
+
+<!-- GitHub Dark -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manueljaime007&theme=github-dark&hide_border=false)
+
+<!-- Highcontrast -->
 
 
-<a href="https://github.com/manueljaime007" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueljaime007&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+</div>
 
 
 ## ✨ Top Repositories
@@ -70,6 +93,9 @@ I participated in a project at **NOSSA Seguros**, where I worked alongside a col
 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
+
+
 # Come back often!
 
 
+****
