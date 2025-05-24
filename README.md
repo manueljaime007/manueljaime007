@@ -48,14 +48,16 @@ Worked on a project at NOSSA Seguros with a teammate, gaining hands-on experienc
 
 <br/>
 
-  <a href="http://www.github.com/manueljaime007" style="flex: 1; margin-bottom: 1rem;">
+  <a href="http://www.github.com/manueljaime007" style="margin-bottom: 1rem;">
     <img src="https://github-readme-stats.vercel.app/api?username=manueljaime007&show_icons=true&count_private=true&title_color=5de15d&text_color=ffffff&icon_color=ffffff&bg_color=0D1117&hide_border=true" alt="manueljaime007's GitHub stats" />
   </a>
 
+<br/>
   <a href="https://github.com/manueljaime007" style="flex: 1; margin-bottom: 1rem;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueljaime007&langs_count=10&title_color=5de15d&text_color=ffffff&icon_color=ffffff&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 
+<br/>
   <a href="https://github.com/manueljaime007" style="flex: 1; margin-bottom: 1rem;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=manueljaime007&theme=github-dark&hide_border=false" />
   </a>
