@@ -1,8 +1,7 @@
 Manuel Jaime
 ===========================================================================================
 
-Junior Web Developer focusing on frontend and backend.
-
+Web developer focused on fullstack apps with Laravel, Node JS, and TypeScript. Experienced with MySQL and exploring mobile (React Native), desktop (C#), and AI (Python).
 <br>
 
 <a href="https://www.github.com/manueljaime007" target="_blank" rel="noreferrer"><img
