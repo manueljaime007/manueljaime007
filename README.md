@@ -9,6 +9,7 @@
 </a>
 
 <br/>
+<br/>
 
 ## 🌟 <span style="color: #6df561;">More About Me</span>
 
@@ -24,6 +25,7 @@
 Keeping leveling up as a fullstack dev to build smart, fast apps that people actually love to use.
 </p>
 
+<br/>
 <br/>
 
 ## 🧰 <span style="color: #6df561;">My Tech Stack</span>
