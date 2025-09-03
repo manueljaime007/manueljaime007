@@ -2,7 +2,8 @@
 
 # Manuel Jaime <span style="color:#6df561; font-size: 1.5rem;">&lt;GuanaBee_007&gt;</span>
 
-<p>Fullstack programmer focused on web & mobile application development.</p>
+<p>Full-stack developer with a focus on building web and mobile applications.</p>
+
 
 <a href="https://www.github.com/manueljaime007" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/manueljaime007?logo=github&style=for-the-badge&color=ffffff&labelColor=0f172a" />
@@ -17,10 +18,16 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!-- <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWE5amM2dXdja2dvaXg5NWo5MzBlM29pZmhnc3U2cWM1NXl0dWJocyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jx4jKhrKvifvCZtyN5/giphy.gif"  /> -->
+<img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm8wcGNrNXp6aTVnaTNlbm45aTAxYXZrZWhndmRjbjFuNWU3aXJ0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tel4DU3dCiDdVUPhIg/giphy.gif"  />
+<!-- <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZ1YXI1bzZhYmVzcTB0NXk0ZHIzbG8za2diaDZ5enM3NGpocmtvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NytMLKyiaIh6VH9SPm/giphy.gif"  /> -->
+<img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjVlYTVqbTF6YWd2YjUxZWQ2amo5am56dWV3cGc4djl2MHFjZnlscyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif"  />
+<img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZ1YXI1bzZhYmVzcTB0NXk0ZHIzbG8za2diaDZ5enM3NGpocmtvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
+<br>
 
+<h2>Technologies I Work With</h2>
 <p align="left" 
   style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem;"
   >
@@ -39,7 +46,10 @@
 </p>
 
 <br>
-<div align="left">
+
+<h2>Get in touch</h2>
+
+<div align="center">
   <a href="https://www.facebook.com/profile.php?id=61569838442978" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
