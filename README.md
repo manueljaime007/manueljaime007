@@ -4,7 +4,6 @@
 
 <p>Full-stack developer with a focus on building web and mobile applications.</p>
 
-
 <a href="https://www.github.com/manueljaime007" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/manueljaime007?logo=github&style=for-the-badge&color=ffffff&labelColor=0f172a" />
 </a>
@@ -25,6 +24,7 @@
 <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZ1YXI1bzZhYmVzcTB0NXk0ZHIzbG8za2diaDZ5enM3NGpocmtvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
+
 <br>
 
 <h2>Technologies I Work With</h2>
@@ -64,9 +64,11 @@
 <a href="mailto:teuemail@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
+<a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+</a>
 
 </div>
-
 
 <br clear="both">
 
