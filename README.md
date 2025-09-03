@@ -2,7 +2,7 @@
 
 # Manuel Jaime <span style="color:#6df561; font-size: 1.5rem;">&lt;GuanaBee_007&gt;</span>
 
-<p>Fullstack programmer focused on web application development.</p>
+<p>Fullstack programmer focused on web & mobile application development.</p>
 
 <a href="https://www.github.com/manueljaime007" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/manueljaime007?logo=github&style=for-the-badge&color=ffffff&labelColor=0f172a" />
@@ -21,7 +21,9 @@
 
 ###
 
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem;">
+<p align="left" 
+  style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem;"
+  >
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -36,6 +38,7 @@
 
 </p>
 
+<br>
 <div align="left">
   <a href="https://www.facebook.com/profile.php?id=61569838442978" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
@@ -48,24 +51,15 @@
   </a><a href="https://www.linkedin.com/in/manuel-jaime-816a8536b" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
+<a href="mailto:teuemail@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
 
 </div>
 
-###
-
-<!-- <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div> -->
-
-###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/manueljaime007/manueljaime007/output/snake.svg" alt="Snake animation" />
 
 ###
