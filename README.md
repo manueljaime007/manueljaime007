@@ -51,7 +51,6 @@
 </p>
 
 <br>
-
 <h2>Get in touch</h2>
 
 <div align="center">
