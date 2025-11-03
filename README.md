@@ -49,6 +49,9 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
 <!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> --> 
 <!-- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> -->
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/prisma/presskit/main/logos/prisma-icon.svg" alt="Prisma ORM" title="Prisma ORM" width="36" height="36" />
+</a>
 
 </p>
 
