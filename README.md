@@ -60,7 +60,7 @@ console.log(`About me: \n ${dev}`);
   <a href="https://skillicons.dev">
     <img 
         src="https://skillicons.dev/icons?i=js,ts,nodejs,sass,react,tailwind,angular,next,express,prisma,nestjs,php,laravel,mysql,postgres,pnpm,postman,supabase,git,github,vercel,netlify" 
-        width=900
+        width=800
     />
   </a>
 </p>
