@@ -69,17 +69,17 @@ console.log(`About me: \n ${dev}`);
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs" width="40" alt="NestJS" /></a>
-  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP" /></a> -->
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP" /></a> 
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" /></a>
-  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pnpm" width="40" alt="pnpm" /></a> -->
-  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" /></a> -->
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pnpm" width="40" alt="pnpm" /></a> 
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" /></a> 
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase" width="40" alt="Supabase" /></a>
-  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /></a> -->
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /></a> 
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub" /></a> 
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" /></a>
-  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=netlify" width="40" alt="Netlify" /></a> -->
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=netlify" width="40" alt="Netlify" /></a>
 </div>
 
 <br/>
