@@ -59,13 +59,13 @@ console.log(`About me: \n ${dev}`);
 <p>
   <a href="https://skillicons.dev">
     <img 
-        src="https://skillicons.dev/icons?i=js,ts,sass,react,tailwind,angular,next,nodejs,express,prisma,nestjs,php,laravel,mysql,postgres" 
-        width=900
+        src="https://skillicons.dev/icons?i=js,ts,sass,react,tailwind,angular,next,nodejs,express,prisma,nestjs,php,laravel,mysql,postgres&perline=8" 
+        width=400
     />
     <br><br>
     <img 
         src="https://skillicons.dev/icons?i=pnpm,postman,supabase,git,github,vercel,netlify" 
-        width=260
+        width=360
     />
   </a>
 </p>
