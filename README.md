@@ -54,12 +54,13 @@ console.log(`About me: \n ${dev}`);
 ```python
 # My Tech Stack;
 ```
+<br/>
 
 <p>
   <a href="https://skillicons.dev">
     <img 
         src="https://skillicons.dev/icons?i=js,ts,sass,react,tailwind,angular,next,nodejs,express,prisma,nestjs,php,laravel,mysql,postgres" 
-        width=600
+        width=900
     />
     <br><br>
     <img 
@@ -77,7 +78,7 @@ console.log(`About me: \n ${dev}`);
 
 <br>
 
-<div>
+<div style="display: flex; gap: 1rem; flex-wrap:wrap;">
   <a href="http://www.instagram.com/manuel_jaime007/?igsh=YzljYTk1ODg3Zg%3D%3D#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a><a href="https://www.linkedin.com/in/manuel-jaime-816a8536b" target="_blank" rel="noreferrer">
