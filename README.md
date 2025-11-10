@@ -1,8 +1,8 @@
 <main>
 <section>
 
-```py
-print("""
+```ts
+
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
 ║    ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗ █████╗ ██████╗ ███████╗ ███████╗  ║
@@ -12,23 +12,23 @@ print("""
 ║   ╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║██║  ██║██████╔╝███████╗ ███████╗  ║
 ║    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚══════╝  ║
 ║                                                                          ║
-#                   # GuanaBee    # Devoloper    #Cool Guy                 #
+#                   # Manuel      # Jaime     #Developer                   #
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 
-""")
 
-# 🌟 Welcome to My GitHub Profile!
-# 💻 Passionate about technology and creating innovative solutions.
-# 📂 Explore my web development repositories.
-# 🚀 Constantly learning and improving my skills.
-# 🤝 Feel free to explore, suggest, or collaborate.
+// 💻 I'm a simple guy, passionate about technology and creating innovative solutions.
 
 ```
 
+<!-- # 🌟 Welcome to My GitHub Profile!
+# 📂 Explore my web development repositories.
+# 🚀 Constantly learning and improving my skills.
+# 🤝 Feel free to explore, suggest, or collaborate. -->
+
 </section>
 
-<section>
+<!-- <section>
 
 ```typescript
 interface Developer {
@@ -47,7 +47,7 @@ const dev: Developer = {
 console.log(`About me: \n ${dev}`);
 ```
 
-</section>
+</section> -->
 
 <br/>
 
@@ -72,8 +72,10 @@ console.log(`About me: \n ${dev}`);
 <br/>
 
 ```python
-# Get in touch
+# Thanks for visiting! Don't hesitate to reach out if you'd like to connect or work together. 😊
 ```
+
+<br>
 
 <div>
   <a href="http://www.instagram.com/manuel_jaime007/?igsh=YzljYTk1ODg3Zg%3D%3D#" target="_blank" rel="noreferrer">
@@ -87,20 +89,14 @@ console.log(`About me: \n ${dev}`);
 <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>
-
+<br>
 <br clear="both">
 
-
-
-```python
- print("Get banzeled")
+<!-- ```python
+ # Get banzeled
 ```
+
 <img src="https://raw.githubusercontent.com/manueljaime007/manueljaime007/output/snake.svg" alt="Snake animation" />
-</div>
-
-```python
-# Thanks for visiting! Don't hesitate to reach out if you'd like to connect or work together. 😊
-
-```
+</div> -->
 
 </main>
