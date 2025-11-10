@@ -1,69 +1,81 @@
-<div align="center" style="font-family: Roboto, sans-serif; padding: 1rem;">
+<main>
+<section>
 
-# Manuel Jaime <span style="color:#6df561; font-size: 1.5rem;">&lt;GuanaBee_007&gt;</span>
+```py
+print("""
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║    ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗ █████╗ ██████╗ ███████╗ ███████╗  ║
+║   ██╔════╝ ██║   ██║██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝ ██╔════╝  ║
+║   ██║  ███╗██║   ██║███████║██╔██╗ ██║███████║██████╔╝█████╗   █████╗    ║
+║   ██║   ██║██║   ██║██╔══██║██║╚██╗██║██╔══██║██╔══██╗██╔══╝   ██╔══╝    ║
+║   ╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║██║  ██║██████╔╝███████╗ ███████╗  ║
+║    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚══════╝  ║
+║                                                                          ║
+#                   # GuanaBee    # Devoloper    #Cool Guy                 #
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 
-<p>Full-stack developer with a focus on building web and mobile applications.</p>
+""")
 
-<a href="https://www.github.com/manueljaime007" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/manueljaime007?logo=github&style=for-the-badge&color=ffffff&labelColor=0f172a" />
-</a>
+# 🌟 Welcome to My GitHub Profile!
+# 💻 Passionate about technology and creating innovative solutions.
+# 📂 Explore my web development repositories.
+# 🚀 Constantly learning and improving my skills.
+# 🤝 Feel free to explore, suggest, or collaborate.
 
-###
+```
 
+</section>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manueljaime007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manueljaime007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<section>
 
-###
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  description: string;
+}
 
-<!-- <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWE5amM2dXdja2dvaXg5NWo5MzBlM29pZmhnc3U2cWM1NXl0dWJocyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jx4jKhrKvifvCZtyN5/giphy.gif"  /> -->
-<img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm8wcGNrNXp6aTVnaTNlbm45aTAxYXZrZWhndmRjbjFuNWU3aXJ0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tel4DU3dCiDdVUPhIg/giphy.gif"  />
-<!-- <img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZ1YXI1bzZhYmVzcTB0NXk0ZHIzbG8za2diaDZ5enM3NGpocmtvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NytMLKyiaIh6VH9SPm/giphy.gif"  /> -->
-<img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bjVlYTVqbTF6YWd2YjUxZWQ2amo5am56dWV3cGc4djl2MHFjZnlscyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif"  />
-<img align="center" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZ1YXI1bzZhYmVzcTB0NXk0ZHIzbG8za2diaDZ5enM3NGpocmtvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
+const dev: Developer = {
+  name: "Manuel Jaime",
+  role: "Fulstack Developer",
+  description:
+    "I'm a Fullstack Developer with a focus on building Web applications.",
+};
 
-###
+console.log(`About me: \n ${dev}`);
+```
 
-<br>
+</section>
 
-<h2>Technologies I Work With</h2>
-<p align="left" 
-  style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem;"
-  >
+<br/>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://sass-lang.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" title="Angular" width="36" height="36" /></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a> --> 
-<!-- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> -->
+```python
+# My Tech Stack;
+```
 
-
+<p>
+  <a href="https://skillicons.dev">
+    <img 
+        src="https://skillicons.dev/icons?i=js,ts,sass,react,tailwind,angular,next,nodejs,express,prisma,nestjs,php,laravel,mysql,postgres" 
+        width=600
+    />
+    <br><br>
+    <img 
+        src="https://skillicons.dev/icons?i=pnpm,postman,supabase,git,github,vercel,netlify" 
+        width=260
+    />
+  </a>
 </p>
 
-<br>
-<h2>Get in touch</h2>
+<br/>
 
-<div align="center">
-  <a href="https://www.facebook.com/profile.php?id=61569838442978" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-  </a>
-  <a href="https://www.github.com/manueljaime007" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
+```python
+# Get in touch
+```
+
+<div>
   <a href="http://www.instagram.com/manuel_jaime007/?igsh=YzljYTk1ODg3Zg%3D%3D#" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a><a href="https://www.linkedin.com/in/manuel-jaime-816a8536b" target="_blank" rel="noreferrer">
@@ -76,10 +88,19 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </a>
 
-</div>
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/manueljaime007/manueljaime007/output/snake.svg" alt="Snake animation" />
 
-###
+
+```python
+ print("Get banzeled")
+```
+<img src="https://raw.githubusercontent.com/manueljaime007/manueljaime007/output/snake.svg" alt="Snake animation" />
+</div>
+
+```python
+# Thanks for visiting! Don't hesitate to reach out if you'd like to connect or work together. 😊
+
+```
+
+</main>
