@@ -57,7 +57,7 @@ console.log(`About me: \n ${dev}`);
 
 <br/>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div style="display: flex; flex-wrap: wrap; gap: 1.07rem;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" />
   </a>
