@@ -17,10 +17,9 @@
 ╚══════════════════════════════════════════════════════════════════════════╝
 
 
-✋🏾 Hey, Guys! I'm Manuel Jaime and this is my profile.
-🚀 I'm a Web Developer, constantly learning and improving my skills.
-💻 I'm a simple guy, passionate about technology and creating innovative solutions.
-🤝 Feel free to explore repositories and suggest, or collaborate.
+✋🏾 Hey, Guys! I'm Manuel Jaime and welcome to my profile!
+
+💻 I'm a simple guy, passionate about technology and creating innovative solutions in Web Development.
 
 ```
 
