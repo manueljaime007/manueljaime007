@@ -12,19 +12,22 @@
 ║   ╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║██║  ██║██████╔╝███████╗ ███████╗  ║
 ║    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚══════╝  ║
 ║                                                                          ║
-#                   # Manuel      # Jaime    # Developer                   #
+#                  # Manuel      # Jaime     # Developer                   #
 ║                                                                          ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 
 
+✋🏾 Hey, Guys! I'm Manuel Jaime and this is my profile.
+🚀 I'm a Web Developer, constantly learning and improving my skills.
 💻 I'm a simple guy, passionate about technology and creating innovative solutions.
+🤝 Feel free to explore repositories and suggest, or collaborate.
 
 ```
 
 <!-- # 🌟 Welcome to My GitHub Profile!
 # 📂 Explore my web development repositories.
 # 🚀 Constantly learning and improving my skills.
-# 🤝 Feel free to explore, suggest, or collaborate. -->
+# 🤝 Feel free to explore repositories and suggest, or collaborate. -->
 
 </section>
 
