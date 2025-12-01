@@ -76,7 +76,7 @@ console.log(`About me: \n ${dev}`);
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" /></a> 
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /></a> 
-  <<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" /></a>-->
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" /></a>
   
   <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pnpm" width="40" alt="pnpm" /></a> --> 
   <!--<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=supabase" width="40" alt="Supabase" /></a>-->
