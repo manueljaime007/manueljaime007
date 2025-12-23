@@ -30,26 +30,6 @@
 
 </section>
 
-<!-- <section>
-
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  description: string;
-}
-
-const dev: Developer = {
-  name: "Manuel Jaime",
-  role: "Fulstack Developer",
-  description:
-    "I'm a Fullstack Developer with a focus on building Web applications.",
-};
-
-console.log(`About me: \n ${dev}`);
-```
-
-</section> -->
 
 <br/>
 
@@ -63,9 +43,9 @@ console.log(`About me: \n ${dev}`);
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /></a>
-  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /></a> -->
-  <!--<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="TailwindCSS" /></a> -->
-  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular" width="40" alt="Angular" /></a> -->
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="TailwindCSS" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular" width="40" alt="Angular" /></a> 
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma" /></a>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs" width="40" alt="NestJS" /></a>
