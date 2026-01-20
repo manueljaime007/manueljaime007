@@ -17,19 +17,18 @@
 ╚══════════════════════════════════════════════════════════════════════════╝
 
 
-✋🏾 Hey, Guys! I'm Manuel Jaime and welcome to my profile!
+✋🏾 Hey, Everyone! I'm Manuel Jaime and welcome to my profile!
 
-💻 I'm a simple guy, passionate about technology and creating innovative solutions in Web Development.
+💻 I'm a simple guy, passionate about technology and creating innovative solutions in Software Development.
 
 ```
 
 <!-- # 🌟 Welcome to My GitHub Profile!
-# 📂 Explore my web development repositories.
 # 🚀 Constantly learning and improving my skills.
+# 📂 Explore my web development repositories.
 # 🤝 Feel free to explore repositories and suggest, or collaborate. -->
 
 </section>
-
 
 <br/>
 
@@ -51,11 +50,13 @@
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma" /></a>
 
-  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart" width="40" alt="PostgreSQL" /></a> -->
-  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter" width="40" alt="PostgreSQL" /></a> -->
+
+  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart" width="40" alt="Dart" /></a> -->
+ <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /></a> -->
+  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter" width="40" alt="Flutter" /></a> -->
   <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" /></a>  -->
-  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" /></a>  -->
   <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" /></a> -->
   <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /></a> -->
   <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="TailwindCSS" /></a> -->
