@@ -23,10 +23,6 @@
 
 ```
 
-<!-- # 🌟 Welcome to My GitHub Profile!
-# 🚀 Constantly learning and improving my skills.
-# 📂 Explore my web development repositories.
-# 🤝 Feel free to explore repositories and suggest, or collaborate. -->
 
 </section>
 
@@ -38,6 +34,7 @@
 
 <br/>
 
+
 <div style="display: flex; flex-wrap: wrap; gap: 12px 15px;">
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" /></a>
@@ -45,6 +42,7 @@
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" width="40" alt="Express" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs" width="40" alt="NestJS" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /></a> 
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next" width="40" alt="Next.js" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" /></a>
@@ -86,12 +84,4 @@
 </a>
 <br>
 <br clear="both">
-
-<!-- ```python
- # Get banzeled
-```
-
-<img src="https://raw.githubusercontent.com/manueljaime007/manueljaime007/output/snake.svg" alt="Snake animation" />
-</div> -->
-
 </main>
