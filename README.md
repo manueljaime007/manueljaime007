@@ -44,6 +44,7 @@
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next" width="40" alt="Next.js" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma" /></a>
 </div>
 
