@@ -1,39 +1,13 @@
 <main>
-<section>
-
-```ts
-
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║    ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗ █████╗ ██████╗ ███████╗ ███████╗  ║
-║   ██╔════╝ ██║   ██║██╔══██╗████╗  ██║██╔══██╗██╔══██╗██╔════╝ ██╔════╝  ║
-║   ██║  ███╗██║   ██║███████║██╔██╗ ██║███████║██████╔╝█████╗   █████╗    ║
-║   ██║   ██║██║   ██║██╔══██║██║╚██╗██║██╔══██║██╔══██╗██╔══╝   ██╔══╝    ║
-║   ╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║██║  ██║██████╔╝███████╗ ███████╗  ║
-║    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚══════╝ ╚══════╝  ║
-║                                                                          ║
-#                  # Manuel      # Jaime     # Developer                   #
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-
-
-✋🏾 Hey, Everyone! I'm Manuel Jaime and welcome to my profile!
-
-💻 I'm a simple guy, passionate about technology and creating innovative solutions in Software Development.
-
-```
-
-
-</section>
-
-<br/>
 
 ```python
-# My Tech Stack;
+# I'm a simple guy, passionate about technology and creating innovative solutions in Software Development.
 ```
 
+```python
+# My Social Media
+```
 <br/>
-
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px 15px;">
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" /></a>
@@ -50,24 +24,5 @@
 
 <br/>
 
-```python
-# Thanks for visiting! Don't hesitate to reach out if you'd like to connect or work together. 😊
-```
-
-<br>
-
-<div style="display: flex; gap: 1rem; flex-wrap:wrap;">
-  <a href="http://www.instagram.com/manuel_jaime007/?igsh=YzljYTk1ODg3Zg%3D%3D#" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a><a href="https://www.linkedin.com/in/manuel-jaime-816a8536b" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-<a href="mailto:teuemail@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
-<a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-</a>
-<br>
-<br clear="both">
 </main>
+
