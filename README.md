@@ -1,12 +1,13 @@
 <main>
 
-```python
-# I'm a simple guy, passionate about technology and creating innovative solutions in Software Development.
-```
+## <strong>Manuel Jaime</strong> <br/> 
 
-```python
-# My Social Media
-```
+
+[![committers.top badge](https://user-badge.committers.top/angola/manueljaime007.svg)](https://user-badge.committers.top/angola/manueljaime007)<br/>
+
+>  I'm a simple guy, passionate about technology and creating innovative solutions in Software Development.
+
+
 <br/>
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px 15px;">
@@ -23,6 +24,7 @@
 </div>
 
 <br/>
+
 
 </main>
 
