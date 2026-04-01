@@ -2,8 +2,13 @@
 
 ## <strong>Manuel Jaime</strong> <br/> 
 
+<p align="center">
 
-[![committers.top badge](https://user-badge.committers.top/angola/manueljaime007.svg)](https://user-badge.committers.top/angola/manueljaime007)<br/>
+[![committers.top badge](https://user-badge.committers.top/angola/manueljaime007.svg)](https://user-badge.committers.top/angola/manueljaime007) <img src="https://komarev.com/ghpvc/?username=manueljaime007&label=Profile+Views&color=blue&style=flat-square" alt="visitors"/>
+
+</p>
+
+
 
 >  I'm a simple guy, passionate about technology and creating innovative solutions in Software Development.
 
@@ -27,4 +32,6 @@
 
 
 </main>
+
+
 
