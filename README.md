@@ -24,7 +24,7 @@
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nestjs" width="40" alt="NestJS" /></a>
  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma" /></a> -->
- <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /></a> -->
+ «<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /></a>
  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind" /></a> -->
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next" width="40" alt="Next.js" /></a>
  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue" width="40" alt="Vue.js" /></a> -->
