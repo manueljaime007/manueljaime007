@@ -27,15 +27,16 @@
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" width="40" alt="React" /></a>
  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind" /></a> -->
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next" width="40" alt="Next.js" /></a>
- <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue" width="40" alt="Vue.js" /></a> -->
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vue" width="40" alt="Vue.js" /></a> 
  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nuxtjs" width="40" alt="Nuxt.js" /></a> -->
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" width="40" alt="PHP" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel" width="40" alt="Laravel" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" width="40" alt="MySQL" /></a>
- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma" /></a>
- <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" /></a> -->
  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" width="40" alt="Postman" /></a> -->
+ <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" /></a> -->
+ <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /></a> -->
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" width="40" alt="Figma" /></a>
 </div>
 
 <br/>
