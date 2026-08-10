@@ -32,8 +32,8 @@
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" width="30" alt="PostgreSQL" /></a>
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" width="30" alt="MySQL" /></a>
  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" width="30" alt="Postman" /></a> -->
- <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" width="30" alt="Linux" /></a> -->
- <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" width="30" alt="Docker" /></a> -->
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" width="30" alt="Linux" /></a>
+ <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" width="30" alt="Docker" /></a>
  <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" width="30" alt="Java" /></a> -->
  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" width="30" alt="Figma" /></a>
 </div>
