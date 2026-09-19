@@ -18,6 +18,7 @@
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" width=40" alt="Postman" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" width=40" alt="Linux" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" width=40" alt="Docker" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redis" width=40" alt="Redis" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width=40" alt="JavaScript" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width=40" alt="TypeScript" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width=40" alt="Node.js" /></a>
@@ -39,7 +40,5 @@
 
   <p>Thanks for visiting!</p>
 </main>
-
-
 
 
