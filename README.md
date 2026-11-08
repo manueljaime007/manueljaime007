@@ -14,7 +14,7 @@
     <h3>My Tech Stack & Tools</h3>
    <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,docker,js,ts,nodejs,next,react,figma&perline=10" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,docker,js,ts,nodejs,next,react,figma&perline=10" width="40" alt="Tech stack" />
   </a>
    </p>
 
