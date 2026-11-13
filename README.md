@@ -19,7 +19,7 @@
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redis" width="40" alt="Redis" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" width="40" alt="Python" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /></a>
+      <!-- <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" /></a>-->
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=next" width="40" alt="Next.js" /></a>
@@ -37,9 +37,5 @@
       </a>
     </p>
   </section>
-
   <p>Thanks for visiting!</p>
-
 </main>
-
-
